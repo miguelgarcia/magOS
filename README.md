@@ -1,6 +1,8 @@
 magOS
 ---
 
+![Boot](boot.gif)
+
 # Build
 
 ```console
